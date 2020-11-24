@@ -1,2 +1,2 @@
-# ticketing-tickets
-Tickets microservices for ticketing app
+# ticketing-payments
+Payments microservices for ticketing app
